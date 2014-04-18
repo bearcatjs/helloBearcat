@@ -1,0 +1,7 @@
+{
+	"name": "helloBearcat",
+	"beans": [{
+		"id": "helloBearcat",
+		"func": "helloBearcat"
+	}]
+}

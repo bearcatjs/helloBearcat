@@ -1,0 +1,21 @@
+{
+	"name": "helloBearcat",
+	"version": "0.1.0",
+	"description": "bearcat helloworld example",
+	"main": "app.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bearcatnode/helloBearcat"
+	},
+	"keywords": [
+		"bearcat",
+		"helloworld",
+		"example"
+	],
+	"author": "fantasyni",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bearcatnode/helloBearcat/issues"
+	},
+	"homepage": "https://github.com/bearcatnode/helloBearcat"
+}
