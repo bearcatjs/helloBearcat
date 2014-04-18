@@ -6,7 +6,7 @@ Using bearcat in project
 npm install bearcat --save
 ```
 
-* write simple POJOs
+* write simple POJOs  
 helloBearcat.js
 ```
 var HelloBearcat = function() {
@@ -20,7 +20,7 @@ HelloBearcat.prototype.hello = function() {
 module.exports = HelloBearcat;
 ```
 
-* write simple meta definition
+* write simple meta definition  
 context.json
 ```
 {
@@ -32,7 +32,7 @@ context.json
 }
 ```
 
-* write main code to run helloBearcat application
+* write main code to run helloBearcat application  
 app.js
 ```
 var Bearcat = require('bearcat');
