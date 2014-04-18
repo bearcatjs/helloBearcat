@@ -1,4 +1,4 @@
-This is a helloworld example project using Bearcat
+## This is a helloworld example project using Bearcat
 
 Using bearcat in project  
 * add npm dependency to your project  
