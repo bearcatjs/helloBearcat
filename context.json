@@ -1,7 +1,4 @@
 {
 	"name": "helloBearcat",
-	"beans": [{
-		"id": "helloBearcat",
-		"func": "helloBearcat"
-	}]
+	"scan": "app"
 }

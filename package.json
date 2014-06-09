@@ -12,6 +12,9 @@
 		"helloworld",
 		"example"
 	],
+	"dependencies": {
+		"bearcat": "0.2.x"
+	},
 	"author": "fantasyni",
 	"license": "MIT",
 	"bugs": {

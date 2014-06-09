@@ -1,5 +1,5 @@
 var HelloBearcat = function() {
-
+	this.$id = "helloBearcat";
 }
 
 HelloBearcat.prototype.hello = function() {
